@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch07-08-lightmaps-lightprobes
+# unity-cookbook-2018-ch08-08-lightmaps-lightprobes
